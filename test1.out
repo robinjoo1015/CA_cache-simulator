@@ -1,0 +1,10 @@
+0xABCDEF00          miss
+0x00000000          miss
+0x00000004          hit
+0x0000000C          hit
+0x00000010          hit
+0x000B0000          miss
+0x001AF1C0          miss
+0xABCDEF00          hit
+# of cache hits     4
+# of cache misses   4
